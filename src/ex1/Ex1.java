@@ -20,6 +20,6 @@ public class Ex1 {
         if(i>=0)
             System.out.println("judetul " + jud_cautat + " se afla pe pozitia " + i);
         else
-            System.out.println("judetul nu se afla in lista!");
+            System.out.println("judetul nu se afla in lista");
     }
 }
