@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7311e6e-1c02-4920-89eb-8b5197b48853" name="Changes" comment="23" />
+    <list default="true" id="c7311e6e-1c02-4920-89eb-8b5197b48853" name="Changes" comment="tema2">
+      <change afterPath="$PROJECT_DIR$/src/ex2/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/Vers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/cantec_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/cantec_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,17 +27,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "korsosflavius"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/korsosflavius/tema2.git",
     "accountId": "3e6a0404-a2d6-4a13-a8bb-93509ce5d350"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2n7B409zCwiLzMrb8goayk0FjNS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +57,7 @@
   "keyToString": {
     "Application.Ex1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -73,7 +92,7 @@
       <workItem from="1728317060651" duration="10000" />
       <workItem from="1729513303575" duration="241000" />
       <workItem from="1729513553375" duration="326000" />
-      <workItem from="1729514773476" duration="360000" />
+      <workItem from="1729514773476" duration="6010000" />
     </task>
     <task id="LOCAL-00001" summary="tema2">
       <option name="closed" value="true" />
@@ -91,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729515112976</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tema2">
+      <option name="closed" value="true" />
+      <created>1729515184327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729515184327</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,19 +136,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tema2" />
     <MESSAGE value="23" />
-    <option name="LAST_COMMIT_MESSAGE" value="23" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="tema2" />
+    <option name="LAST_COMMIT_MESSAGE" value="tema2" />
   </component>
 </project>
