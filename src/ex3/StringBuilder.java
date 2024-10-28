@@ -1,12 +1,12 @@
+package ex3;
+
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class StringBuilder {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("sirul initial: ");
-        StringBuilder sir_initial = new StringBuilder(sc.nextLine());
+        java.lang.StringBuilder sir_initial = new java.lang.StringBuilder(sc.nextLine());
         System.out.println("sirul de inserat: ");
         String sir_inserat = sc.nextLine();
         System.out.println("pozitia( 0- " + sir_initial.length() + " ):");
